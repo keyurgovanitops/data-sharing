@@ -1,0 +1,32 @@
+transaction_id,transaction_date,department,expense_category,vendor,amount,payment_status,internal_note
+TXN1001,2026-01-03,Finance,Office Supplies,Staples India,2450.0,Paid,Monthly stationery
+TXN1002,2026-01-04,IT,Software,Adobe,5999.0,Paid,Annual design license
+TXN1003,2026-01-05,Human Resources,Travel,MakeMyTrip,8200.0,Pending,Interview travel
+TXN1004,2026-01-06,Sales,Travel,IndiGo,12400.0,Paid,Client visit
+TXN1005,2026-01-07,finance,Office Supplies,Amazon Business,1850.0,Paid,Printer paper
+TXN1006,2026-01-08,Operations,Utilities,Torrent Power,9100.0,Paid,Electricity bill
+TXN1007,2026-01-09,IT,Hardware,Dell,48500.0,Pending,Laptop purchase
+TXN1008,2026-01-10,Sales,Marketing,Meta Ads,15000.0,Paid,Campaign spend
+TXN1009,2026-01-11,Human Resources,Recruitment,Naukri,7200.0,Paid,Job posting
+TXN1010,2026-01-12,Finance,Professional Fees,CA Firm,18000.0,Paid,Tax consultation
+TXN1011,2026-01-13,Operations,Repairs,ABC Services,5600.0,Pending,AC repair
+TXN1012,2026-01-14,Sales,Travel,Uber,1250.0,Paid,Local client travel
+TXN1013,2026-01-15,IT,Software,Microsoft,8999.0,Paid,Office subscription
+TXN1014,2026-01-16,Finance,Bank Charges,HDFC Bank,450.0,Paid,Account charges
+TXN1015,2026-01-17,Operations,Utilities,Adani Gas,2300.0,Paid,Gas bill
+TXN1016,2026-01-18,sales,Marketing,Google Ads,11000.0,Pending,Search campaign
+TXN1017,2026-01-19,Human Resources,Training,Coursera,3999.0,Paid,Staff learning
+TXN1018,2026-01-20,IT,Hardware,HP,32500.0,Paid,Monitor purchase
+TXN1019,2026-01-21,Finance,Office Supplies,Local Vendor,,Pending,Invoice amount missing
+TXN1020,2026-01-22,Operations,Repairs,XYZ Maintenance,,Paid,Amount not entered
+TXN1021,2026-01-23,Sales,Marketing,Meta Ads,9500.0,Paid,Retargeting
+TXN1022,2026-01-24,Human Resources,Travel,Railways,2100.0,Paid,Candidate travel
+TXN1023,2026-01-25,IT,Software,Atlassian,6500.0,Pending,Team subscription
+TXN1024,2026-01-26,Finance,Professional Fees,Legal Consultant,12500.0,Paid,Contract review
+TXN1025,2026-01-27,Operations,Utilities,Torrent Power,8700.0,Paid,Water and power
+TXN1026,2026-01-28,Sales,Travel,IndiGo,12400.0,Paid,Client visit
+TXN1026,2026-01-28,Sales,Travel,IndiGo,12400.0,Paid,Duplicate export row
+TXN1027,2026-01-29,IT,Hardware,Dell,42000.0,Pending,Workstation
+TXN1028,2026-01-30, human resources ,Training,Udemy,2499.0,Paid,Training course
+TXN1029,2026-01-31,Finance,Bank Charges,ICICI Bank,375.0,Paid,Transaction fee
+TXN1030,2026-02-01,Operations,Repairs,ABC Services,3200.0,Paid,Generator servicing
