@@ -1,0 +1,51 @@
+transaction_id,transaction_date,department,expense_category,vendor,amount,payment_status,internal_note,entered_by
+TXN2001,2026-01-03,Finance,Office Supplies,Staples,2450,Paid,Monthly stationery,Rahul
+TXN2002,04/01/2026,Sales,Travel,MakeMyTrip,"₹12,800",paid,Client visit,Amit
+TXN2003,Jan 05 2026,Human Resources,Training,SkillWorks,18500,Pending,Staff workshop,Neha
+TXN2004,2026-01-06,it,Software,Microsoft,9200,PAID,Annual subscription,Rahul
+TXN2005,07-01-2026,Operations,Utilities,Torrent Power,6400,Completed,Electricity bill,Amit
+TXN2006,2026/01/08, finance ,Office Supplies,Local Stationers,1750,paid,Pens and files,Neha
+TXN2007,09/01/2026,SALES,Marketing,AdWorks,22500,PENDING,Campaign expense,Rahul
+TXN2008,2026-01-10,IT,Hardware,Dell,"48,500",Paid,Laptop accessories,Amit
+TXN2009,11 Jan 2026, human resources ,Recruitment,Naukri,7600,paid,Job listing,Neha
+TXN2010,2026-01-12,Operations,Maintenance,ABC Services,5400,Paid,AC maintenance,Rahul
+TXN2011,13/01/2026,Finance,Bank Charges,HDFC Bank,850,PAID,Transaction fees,Amit
+TXN2012,2026-01-14,Sales,Travel,Uber,2150,Paid,Local travel,Neha
+TXN2013,15-01-2026,IT,Software,Adobe,4200,Pending,Design software,Rahul
+TXN2014,2026-01-16,Operations,Office Supplies,Metro Traders,3150,paid,Packaging material,Amit
+TXN2015,17/01/2026,Human Resources,Employee Welfare,Food Court,6800,Paid,Team lunch,Neha
+TXN2016,2026-01-18,sales,Marketing,SocialBuzz,14200,Completed,Social media ads,Rahul
+TXN2017,19 Jan 2026,Finance,Audit,KJ Associates,35000,Pending,Audit support,Amit
+TXN2018,2026-01-20,IT,Hardware,HP,27500,Paid,Monitor purchase,Neha
+TXN2019,21/01/2026,Operations,Utilities,Water Board,,Pending,Water bill amount missing,Rahul
+TXN2020,2026-01-22,Sales,Travel,IndiGo,NA,Pending,Ticket amount missing,Amit
+TXN2021,23/01/2026,Finance,Office Supplies,Staples,1950,Paid,Printer paper,Neha
+TXN2022,2026-01-24,Human Resources,Training,LearnPro,12500,Paid,Excel training,Rahul
+TXN2023,25/01/2026,Operations,Maintenance,CleanCo,3900,Paid,Office cleaning,Amit
+TXN2024,2026-01-26,IT,Software,Zoom,5600,paid,Video meeting subscription,Neha
+TXN2025,27/01/2026,Sales,Marketing,AdWorks,19800,Pending,Campaign design,Rahul
+TXN2026,2026-01-28,Finance,Bank Charges,ICICI Bank,1100,Paid,Bank service fee,Amit
+TXN2027,29/01/2026,Operations,Utilities,Torrent Power,7100,Paid,Monthly electricity,Neha
+TXN2028,2026-01-30,Human Resources,Recruitment,Naukri,8900,paid,Recruitment listing,Rahul
+TXN2029,31/01/2026,IT,Hardware,Lenovo,62000,Pending,Desktop purchase,Amit
+TXN2030,2026-02-01,Sales,Travel,Railways,3200,Paid,Train tickets,Neha
+TXN2031,2026-02-02,Fin.,Office Supplies,Staples,2800,Paid,Stationery,Rahul
+TXN2032,02/03/2026,Sales,Travel,Uber,"₹ 1,250",paid,Client transport,Amit
+TXN2033,2026-02-04,IT,Software,Adobe,"4,200.00",Paid,Subscription,Neha
+TXN2034,2026-02-05,Operations,Utilities,Torrent Power,-6500,Paid,Electricity correction,Rahul
+TXN2035,2026-02-06,HR,Training,LearnPro,15000,Pending,Training fees,Amit
+TXN2036,2026-02-07,Sales,Marketting,AdWorks,17500,Paid,Campaign expenses,Neha
+TXN2037,2026-02-08,Finance,Bank Charges,HDFC Bank,900,paid,Monthly fees,Rahul
+TXN2038,2026-02-09,IT,Hardware,Dell,56000,Pending,Laptop purchase,Amit
+TXN2039,2026-02-30,Operations,Maintenance,ABC Services,3200,Paid,Invalid calendar date,Neha
+TXN2040,2026-02-11,Sales,Travel,,2800,Paid,Vendor missing,Rahul
+TXN2041,2026-02-12,Finance,Office Supplies, Staples , 2450 ,Paid,Extra spaces,Amit
+TXN2042,2026-02-13,IT,Software,Microsoft,9200,Paid,Repeated transaction,Neha
+TXN2043,2026-02-13,IT,Software,Microsoft,9200,Paid,Repeated transaction,Neha
+TXN2044,2026-02-14,Human Resources,Recruitment,Naukri,9800,Done,Recruitment listing,Rahul
+TXN2045,2026-02-15,Sales,Travel,IndiGo,7500,Unpaid,Flight booking,Amit
+TXN2046,2026-02-16,Operations,Utilities,Water Board,5600,Pending,Water bill,Neha
+TXN2047,2026-02-17,Finance,Audit,KJ Associates,abc,Paid,Invalid amount,Rahul
+TXN2048,2026-02-18,IT,Hardware,HP,72000,PAID,Computer purchase,Amit
+TXN2049,2026-02-19, sales ,Marketing,SocialBuzz,19500,paid,Marketing campaign,Neha
+TXN2050,2026-02-20,Finance,Bank Charges,ICICI Bank,1100,Paid,Bank service fee,Amit
